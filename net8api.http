@@ -1,0 +1,6 @@
+@net8api_HostAddress = http://localhost:5174
+
+GET {{net8api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
